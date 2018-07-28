@@ -20,3 +20,6 @@ while True:
 
 # Close Connection
 s.close()
+
+fs2 = open('trythis.txt', 'w')
+fs2.close()
